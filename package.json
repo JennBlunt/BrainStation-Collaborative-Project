@@ -1,0 +1,16 @@
+{
+  "name": "collaborative-project-stock-2",
+  "version": "1.0.0",
+  "description": "BrianStation Project 3, Collaborative Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kajenk87@bitbucket.org/kajenk87/collaborative-project-stock.git"
+  },
+  "author": "Jenn Blunt, Kajen Kirubahkaran, Jake Maldonado, Landon Ta",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kajenk87/collaborative-project-stock#readme"
+}
